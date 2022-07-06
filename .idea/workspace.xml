@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02a9bdaa-3241-4eba-a257-35a9a08bd270" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/config/BeansConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/config/BeansConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/resources/spring.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.20/spring-context-5.3.20-sources.jar!/org/springframework/stereotype/Repository.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BWhoCA9zQmCtEcq0Ch9N7mdVsx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/projects/ice-spring-demos/spring-framework-demo-helloworld-annotation/src/main/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "ef03dfb8e6222185228c25a7f58458ed"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\ice-spring-demos\spring-framework-demo-helloworld-annotation\src\main\java" />
+      <recent name="E:\projects\ice-spring-demos\spring-framework-demo-helloworld-java\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.ice.springframework.App (1)">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ice.springframework.App" />
+      <module name="spring-framework-demo-helloworld-xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ice.springframework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ice.springframework.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ice.springframework.App" />
+      <module name="spring-framework-demo-helloworld-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ice.springframework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ice.springframework.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ice.springframework.App" />
+      <module name="spring-framework-demo-helloworld-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ice.springframework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ice.springframework.App (1)" />
+        <item itemvalue="Application.com.ice.springframework.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a9bdaa-3241-4eba-a257-35a9a08bd270" name="Changes" comment="" />
+      <created>1657027922293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657027922293</updated>
+      <workItem from="1657027923575" duration="964000" />
+      <workItem from="1657029137648" duration="170000" />
+      <workItem from="1657029318194" duration="60000" />
+      <workItem from="1657029387957" duration="19000" />
+      <workItem from="1657029415640" duration="3278000" />
+      <workItem from="1657108112806" duration="1998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
