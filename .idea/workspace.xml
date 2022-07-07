@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a9bdaa-3241-4eba-a257-35a9a08bd270" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/config/BeansConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/config/BeansConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-java/src/main/java/com/ice/springframework/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/java/com/ice/springframework/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-xml/src/main/resources/spring.xml" afterDir="false" />
+    <list default="true" id="02a9bdaa-3241-4eba-a257-35a9a08bd270" name="Changes" comment="新增 Spring HelloWorld demos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/aspect/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework-demo-helloworld-annotation/src/main/java/com/ice/springframework/aspect/LogAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +43,11 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "E:/projects/ice-spring-demos/spring-framework-demo-helloworld-annotation/src/main/java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "ef03dfb8e6222185228c25a7f58458ed"
+    "spring.configuration.checksum": "5d199681351ebf272a6626a43bcdf292"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -142,6 +118,7 @@
       <workItem from="1657029387957" duration="19000" />
       <workItem from="1657029415640" duration="3278000" />
       <workItem from="1657108112806" duration="1998000" />
+      <workItem from="1657194146877" duration="739000" />
     </task>
     <servers />
   </component>

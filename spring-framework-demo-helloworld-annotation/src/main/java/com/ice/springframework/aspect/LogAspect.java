@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
 @Aspect
 public class LogAspect {
     /**
-     * aspect for every methods under service package.
+     * aspect for each method under service package.
      */
     @Around("execution(* com.ice.springframework.service.*.*(..))")
     public Object businessService(ProceedingJoinPoint pjp) throws Throwable {
