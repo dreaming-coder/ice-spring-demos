@@ -14,6 +14,8 @@
         <module>spring-framework-demo-helloworld-annotation</module>
         <module>spring-framework-demo-aop-xml</module>
         <module>spring-framework-demo-aop-annotation</module>
+        <module>spring-mvc-demo-xml</module>
+        <module>spring-mvc-demo-annotation</module>
     </modules>
 
     <properties>
