@@ -19,6 +19,7 @@
         <module>spring-mvc-demo-request-parameters</module>
         <module>spring-mvc-demo-content-negotiation</module>
         <module>spring-mvc-demo-interceptor</module>
+        <module>spring-mvc-demo-file-upload</module>
     </modules>
 
     <properties>
