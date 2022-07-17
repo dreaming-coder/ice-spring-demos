@@ -20,6 +20,7 @@
         <module>spring-mvc-demo-content-negotiation</module>
         <module>spring-mvc-demo-interceptor</module>
         <module>spring-mvc-demo-file-upload</module>
+        <module>spring-mvc-demo-exception</module>
     </modules>
 
     <properties>
