@@ -16,6 +16,7 @@
         <module>spring-framework-demo-aop-annotation</module>
         <module>spring-mvc-demo-xml</module>
         <module>spring-mvc-demo-annotation</module>
+        <module>spring-mvc-demo-request-parameters</module>
     </modules>
 
     <properties>
