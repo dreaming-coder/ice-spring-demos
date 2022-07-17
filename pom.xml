@@ -17,6 +17,7 @@
         <module>spring-mvc-demo-xml</module>
         <module>spring-mvc-demo-annotation</module>
         <module>spring-mvc-demo-request-parameters</module>
+        <module>spring-mvc-demo-content-negotiation</module>
     </modules>
 
     <properties>
