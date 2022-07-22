@@ -21,6 +21,7 @@
         <module>spring-mvc-demo-interceptor</module>
         <module>spring-mvc-demo-file-upload</module>
         <module>spring-mvc-demo-exception</module>
+        <module>spring-framework-demo-tx</module>
     </modules>
 
     <properties>
